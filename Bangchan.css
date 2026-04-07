@@ -7,4 +7,15 @@ a{
 h1{
     text-align: center;
     color: #6cb6e3;
+} 
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;    
+} 
+p{
+    text-align: center; 
+    color: #44708b; 
+    font-family: 'Courier New', Courier, monospace;
 }
