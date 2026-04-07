@@ -12,10 +12,13 @@ img{
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;    
+  width: 20%;    
 } 
 p{
     text-align: center; 
     color: #44708b; 
     font-family: 'Courier New', Courier, monospace;
-} 
+}  
+h6{
+    text-align: center;
+}
