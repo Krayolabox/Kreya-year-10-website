@@ -1,0 +1,22 @@
+a{ 
+    font-family:'Courier New', Courier, monospace; 
+    color: #7b7a7a;
+    font-size: 20px; 
+    text-align: center;
+}
+body{
+    background-color:#f4afc1;
+}
+h1 {
+    text-align: center; 
+    color: #ec7e9b; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+} 
+
+p{ 
+    text-align: center;
+    color: #7b7a7a; 
+    font-family: 'Courier New', Courier, monospace;
+}  
+
