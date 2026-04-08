@@ -1,1 +1,1 @@
-[Website here!] (https://krayolabox.github.io/Kreya-year-10-website/) 
+[Website here!] (https://KrayolaBox.github.io/Kreya-year-10-website/) 

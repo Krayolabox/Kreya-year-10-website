@@ -9,3 +9,8 @@ h1{
 a{
     color: #fee0ea;
 }
+P{
+     text-align: center; 
+    color: #cf6d8f; 
+    font-family: 'Courier New', Courier, monospace;
+}
