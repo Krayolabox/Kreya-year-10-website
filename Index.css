@@ -2,10 +2,9 @@ a{
     font-family:'Courier New', Courier, monospace; 
     color: #7b7a7a;
     font-size: 30px; 
-    display: inline-block;
+    display: flex;
   justify-content: center;
-  align-items: center;  
-    
+  align-items: center;            
 }
 body{
     background-color:#f4afc1;
