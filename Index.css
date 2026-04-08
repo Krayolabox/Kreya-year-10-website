@@ -2,7 +2,7 @@ a{
     font-family:'Courier New', Courier, monospace; 
     color: #7b7a7a;
     font-size: 30px; 
-     display: flex;
+    display: inline-block;
   justify-content: center;
   align-items: center;  
     

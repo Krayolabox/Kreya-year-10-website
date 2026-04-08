@@ -1,8 +1,10 @@
 a{ 
-    font-family:'Courier New', Courier, monospace; 
+     font-family:'Courier New', Courier, monospace; 
     color: #7b7a7a;
-    text-align: center;
-    font-size: 20px;
+    font-size: 30px; 
+     display: inline-block;
+  justify-content: center;
+  align-items: center;  
 }
 body{
     background-color:#f4afc1;
@@ -10,12 +12,14 @@ body{
 h1 {
     text-align: center; 
     color: #ec7e9b;
+    font-family: cursive;
+    font-size: 100px;
 } 
 
 p{ 
     text-align: center;
     color: #7b7a7a; 
-    font-family: 'Courier New', Courier, monospace;
+    
 }  
 
 
