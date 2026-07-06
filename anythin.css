@@ -7,16 +7,16 @@ a{
   align-items: center;            
 }
 body{
-    background-color:#f4afc1;
+    background-color:#ffffff;
 }
 h1 {
     text-align: center; 
-    color: #ec7e9b; 
+    color: #000000; 
     font-family: cursive;
 } 
 
 p{ 
     text-align: center;
-    color: #7b7a7a; 
+    color: #000000; 
     font-family: 'Courier New', Courier, monospace;
 }  
