@@ -1,0 +1,25 @@
+body{
+    background-color: #89bdf8;
+}
+a{
+    color: #dce9f9
+    ;
+}
+h1{
+    text-align: center;
+    color: #01015e;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;    
+} 
+p{
+    text-align: center; 
+    color: #020298; 
+    font-family: 'Courier New', Courier, monospace;
+}  
+h6{
+    text-align: center;
+}
