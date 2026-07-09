@@ -1,13 +1,13 @@
 a{ 
     font-family:'Courier New', Courier, monospace; 
-    color: #7b7a7a;
+    color: #000000;
     font-size: 30px; 
     display: flex;
   justify-content: center;
   align-items: center;            
 }
 body{
-    background-color:#ffffff;
+    background-color:#eb5500;
 }
 h1 {
     text-align: center; 
